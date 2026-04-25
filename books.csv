@@ -1,0 +1,51 @@
+title,subject,level,link
+Python Basics,python,beginner,https://www.learnpython.org/
+Advanced Python,python,advanced,https://docs.python.org/3/tutorial/
+Python for Data Science,python,advanced,https://www.kaggle.com/learn/python
+Java Programming,java,beginner,https://www.javatpoint.com/java-tutorial
+Advanced Java,java,advanced,https://docs.oracle.com/javase/tutorial/
+C Programming,coding,beginner,https://www.programiz.com/c-programming
+Data Structures,coding,advanced,https://www.geeksforgeeks.org/data-structures/
+Algorithms Basics,coding,beginner,https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+Operating Systems,os,beginner,https://www.tutorialspoint.com/operating_system/index.htm
+Advanced OS,os,advanced,https://www.geeksforgeeks.org/operating-systems/
+DBMS Basics,dbms,beginner,https://www.javatpoint.com/dbms-tutorial
+Advanced DBMS,dbms,advanced,https://www.geeksforgeeks.org/dbms/
+Computer Networks,network,beginner,https://www.geeksforgeeks.org/computer-network-tutorials/
+Advanced Networking,network,advanced,https://www.tutorialspoint.com/data_communication_computer_network/
+Mathematics 101,math,beginner,https://www.khanacademy.org/math
+Engineering Mathematics,math,advanced,https://ocw.mit.edu
+Statistics Basics,math,beginner,https://www.khanacademy.org/math/statistics-probability
+Linear Algebra,math,advanced,https://ocw.mit.edu
+Physics Basics,science,beginner,https://openstax.org/details/books/physics
+Advanced Physics,science,advanced,https://ocw.mit.edu
+Chemistry Basics,science,beginner,https://openstax.org/details/books/chemistry
+Organic Chemistry,science,advanced,https://ocw.mit.edu
+Biology Basics,science,beginner,https://openstax.org/details/books/biology
+Human Anatomy,science,advanced,https://openstax.org/details/books/anatomy-and-physiology
+General Knowledge Guide,gk,beginner,https://www.gktoday.in/
+Advanced GK,gk,advanced,https://byjus.com/free-ias-prep/
+Indian Polity,gk,advanced,https://byjus.com/free-ias-prep/indian-polity-notes/
+World Geography,gk,beginner,https://www.nationalgeographic.com/
+English Grammar,english,beginner,https://www.englishgrammar.org/
+Advanced English,english,advanced,https://owl.purdue.edu/
+Communication Skills,english,beginner,https://www.skillsyouneed.com/
+Aptitude Basics,aptitude,beginner,https://www.indiabix.com/aptitude/questions-and-answers/
+Quantitative Aptitude,aptitude,advanced,https://www.indiabix.com/
+Logical Reasoning,aptitude,beginner,https://www.indiabix.com/logical-reasoning/
+Verbal Reasoning,aptitude,advanced,https://www.indiabix.com/verbal-reasoning/
+Machine Learning Basics,ai,beginner,https://www.coursera.org/learn/machine-learning
+Deep Learning,ai,advanced,https://www.deeplearning.ai/
+Artificial Intelligence,ai,beginner,https://www.ibm.com/topics/artificial-intelligence
+Data Science,ai,advanced,https://www.kaggle.com/learn
+Cyber Security Basics,security,beginner,https://www.cybrary.it/
+Ethical Hacking,security,advanced,https://www.cybrary.it/
+Cloud Computing Basics,cloud,beginner,https://aws.amazon.com/training/
+AWS Advanced,cloud,advanced,https://aws.amazon.com/training/
+Software Engineering,se,beginner,https://www.geeksforgeeks.org/software-engineering/
+Advanced Software Eng,se,advanced,https://www.tutorialspoint.com/software_engineering/
+Web Development Basics,web,beginner,https://www.w3schools.com/
+Full Stack Development,web,advanced,https://www.freecodecamp.org/
+HTML & CSS,web,beginner,https://www.w3schools.com/html/
+JavaScript,web,advanced,https://developer.mozilla.org/
+React JS,web,advanced,https://react.dev/
